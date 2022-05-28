@@ -1,6 +1,7 @@
 {
   "name": "state-demo",
   "private": true,
+  "author": "Gopal",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
